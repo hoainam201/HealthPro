@@ -1,0 +1,9 @@
+[submodule "Appoiment-booking-BE"]
+	path = Appoiment-booking-BE
+	url = https://github.com/hoainam201/Appoiment-booking-BE
+[submodule "Appoiment-booking-fe-patient"]
+	path = Appoiment-booking-fe-patient
+	url = https://github.com/hoainam201/Appoiment-booking-fe-patient
+[submodule "Appoiment-booking-fe-manager"]
+	path = Appoiment-booking-fe-manager
+	url = https://github.com/hoainam201/Appoiment-booking-fe-manager
